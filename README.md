@@ -26,20 +26,6 @@ I specialize in PHP, Laravel, CodeIgniter, WordPress, and MySQL, with a focus on
 - Admin Dashboards
 - REST API Integrations
 
-### 🚀 Selected Projects
-
-**POS & Inventory Management System**
-
-A custom web application for managing sales, purchases, stock, products, customers, suppliers, expenses, and business operations.
-
-**School Management System**
-
-A web-based solution for managing school administration and day-to-day operations.
-
-**Construction CRM**
-
-A custom CRM application designed to simplify construction project and business management.
-
 ### 🌐 Portfolio
 
 Website: https://codetrickz.com
